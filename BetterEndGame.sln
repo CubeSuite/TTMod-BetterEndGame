@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterEndGame", "BetterEndGame\BetterEndGame.csproj", "{ABDC1F84-F257-463C-823C-8CF31BD33135}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDC1F84-F257-463C-823C-8CF31BD33135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDC1F84-F257-463C-823C-8CF31BD33135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDC1F84-F257-463C-823C-8CF31BD33135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDC1F84-F257-463C-823C-8CF31BD33135}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F72384-CF18-4C51-A474-B195E91FA9A2}
+	EndGlobalSection
+EndGlobal
